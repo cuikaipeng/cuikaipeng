@@ -1,5 +1,5 @@
 ## Hi there 👋
-An average programmer
+An ordinary programmer
 
 <h3>Things I code with</h3>
 <p>
